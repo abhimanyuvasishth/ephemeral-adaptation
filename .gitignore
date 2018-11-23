@@ -1,3 +1,7 @@
 node_modules
 .DS_Store
+<<<<<<< HEAD
 credentials.js
+=======
+data_analysis/data*
+>>>>>>> 92ab843272aa8bec757d411fada7163cc286015c
