@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-credentials.js
+credentials.json
 data_analysis/data*
